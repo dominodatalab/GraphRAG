@@ -29,7 +29,11 @@ The assets available in this project are:
 
 * *`3_langchain_hybrid_rag.ipynb`* - In this notebook, we show how to use `langchain` to construct a graph and use both graph search and semantic search to create a RAG workflow
 
-* *`neo4j_query_ft_examples.ipynb`* - This notebook has some additional examples of Cypher queries that can be used as few shot examples to the LLM 
+* *`neo4j_query_ft_examples.ipynb`* - This notebook has some additional examples of Cypher queries that can be used as few shot examples to the LLM
+  
+* *`data/activision.pdf`* - Activision's 2023 Form 10k
+  
+* *`data/netflix_ttiles.csv`* - File with data about movies
 
 * ## Set up instructions
 
