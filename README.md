@@ -21,7 +21,7 @@ This template is licensed under Apache 2.0 and contains the following components
 
 The assets available in this project are:
 
-- *1_1_create_kg.ipynb* - In this notebook, we create a knowlege graphs over structured data and also compute embeddings for the a text field(description) 
+* *`1_1_create_kg.ipynb`* - In this notebook, we create a knowlege graphs over structured data and also compute embeddings for the a text field(description) 
 
 * *1_2_query_kg.ipynb* - In this notebook, we use an LLM with few shot examples to run queries in the graph created from the structured data csv
 
