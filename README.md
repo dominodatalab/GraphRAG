@@ -15,7 +15,7 @@ This template is licensed under Apache 2.0 and contains the following components
 * langchain-openai [MIT License (MIT)](https://github.com/langchain-ai/langchain/blob/34284c25d4de4352bede97724fc1ef0bf10460bb/LICENSE)
 * langchain-experimental [MIT License (MIT)](https://github.com/langchain-ai/langchain/blob/34284c25d4de4352bede97724fc1ef0bf10460bb/LICENSE)
 
-* The assets available in this project are:
+The assets available in this project are:
 
 *1_1_create_kg.ipynb* - In this notebook, we create a knowlege graphs over structured data and also compute embeddings for the a text field(description) 
 
