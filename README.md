@@ -17,6 +17,7 @@ This template is licensed under Apache 2.0 and contains the following components
 * langchain-community [MIT License](https://github.com/langchain-ai/langchain/blob/master/LICENSE)
 * pypdf [BSD Licnse](https://github.com/py-pdf/pypdf/blob/main/LICENSE)
 * wikipedia [MIT License](https://github.com/goldsmith/Wikipedia/blob/master/LICENSE)
+* neo4j [Apache Software License](https://github.com/neo4j/neo4j-python-driver/blob/5.0/LICENSE.APACHE2.txt)
 
 The assets available in this project are:
 
