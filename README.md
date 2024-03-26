@@ -21,15 +21,15 @@ This template is licensed under Apache 2.0 and contains the following components
 
 The assets available in this project are:
 
-*1_1_create_kg.ipynb* - In this notebook, we create a knowlege graphs over structured data and also compute embeddings for the a text field(description) 
+* *1_1_create_kg.ipynb* - In this notebook, we create a knowlege graphs over structured data and also compute embeddings for the a text field(description) 
 
-*1_2_query_kg.ipynb* - In this notebook, we use an LLM with few shot examples to run queries in the graph created from the structured data csv
+* *1_2_query_kg.ipynb* - In this notebook, we use an LLM with few shot examples to run queries in the graph created from the structured data csv
 
-*2_construct_graph_from_llm.ipynb* - In this notebook, we show how to use an LLM to construct a custom graph. We have intentionally left out providing few shot samples for the LLM and if you want to include some few shot examples follow the pattern in `1_2_query_kg.ipynb`
+* *2_construct_graph_from_llm.ipynb* - In this notebook, we show how to use an LLM to construct a custom graph. We have intentionally left out providing few shot samples for the LLM and if you want to include some few shot examples follow the pattern in `1_2_query_kg.ipynb`
 
-*3_langchain_hybrid_rag.ipynb* - In this notebook, we show how to use `langchain` to construct a graph and use both graph search and semantic search to create a RAG workflow
+* *3_langchain_hybrid_rag.ipynb* - In this notebook, we show how to use `langchain` to construct a graph and use both graph search and semantic search to create a RAG workflow
 
-*neo4j_query_ft_examples.ipynb* - This notebook has some additional examples of Cypher queries that can be used as few shot examples to the LLM 
+* *neo4j_query_ft_examples.ipynb* - This notebook has some additional examples of Cypher queries that can be used as few shot examples to the LLM 
 
 * ## Set up instructions
 
