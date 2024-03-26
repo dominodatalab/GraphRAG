@@ -14,6 +14,9 @@ This template is licensed under Apache 2.0 and contains the following components
 * langchain 0.1.8 [MIT License (MIT)](https://github.com/langchain-ai/langchain/blob/34284c25d4de4352bede97724fc1ef0bf10460bb/LICENSE)
 * langchain-openai [MIT License (MIT)](https://github.com/langchain-ai/langchain/blob/34284c25d4de4352bede97724fc1ef0bf10460bb/LICENSE)
 * langchain-experimental [MIT License (MIT)](https://github.com/langchain-ai/langchain/blob/34284c25d4de4352bede97724fc1ef0bf10460bb/LICENSE)
+* langchain-community [MIT License](https://github.com/langchain-ai/langchain/blob/master/LICENSE)
+* pypdf [BSD Licnse](https://github.com/py-pdf/pypdf/blob/main/LICENSE)
+* wikipedia [MIT License](https://github.com/goldsmith/Wikipedia/blob/master/LICENSE)
 
 The assets available in this project are:
 
