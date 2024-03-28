@@ -29,7 +29,7 @@ The assets available in this project are:
 
 * *`3_langchain_hybrid_rag.ipynb`* - In this notebook, we show how to use `langchain` to construct a graph and use both graph search and semantic search to create a RAG workflow
 
-* *`eval_RAG.ipynb`* - In this notebook, we evaluate the hybrid graph RAG vs. a QA RAG system without graph information  
+* *`eval_RAG.ipynb`* - In this notebook, we evaluate the hybrid graph RAG vs. a QA RAG system without graph information using an LLM as a judge approach to assign scores to the output
 
 * *`neo4j_query_ft_examples.ipynb`* - This notebook has some additional examples of Cypher queries that can be used as few shot examples to the LLM
   
