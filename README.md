@@ -34,6 +34,10 @@ The assets available in this project are:
 * *`data/activision.pdf`* - Activision's 2023 Form 10k
   
 * *`data/netflix_ttiles.csv`* - File with data about movies
+  
+* *`data/elon_eval_qa.csv`* - File with general question-answer pairs to evaluate the graph RAG vs. a regular QA RAG implementation
+  
+* *`data/elon_eval_rel.csv`* - File with question-answer pairs that have questions that involve relationships to evaluate the graph RAG vs. a regular QA RAG implementation
 
 * ## Set up instructions
 
