@@ -57,7 +57,7 @@ Any DSE with Python 3.9 will also work
 
 ***Dockerfile instructions***
 ```
-RUN pip install neo4j==5.16.0 langchain-community==0.0.14 openai==1.9.0 langchain==0.1.2 langchain-openai==0.0.3 pypdf==4.1.0 pinecone-client==2.2.4 wikipedia==1.4.0
+RUN pip install neo4j==5.16.0 langchain-community==0.0.14 openai==1.9.0 langchain==0.1.2 langchain-openai==0.0.3 pypdf==4.1.0 pinecone-client==2.2.4 wikipedia==1.4.0 dominodatalab-data==5.10.0.dev2 
 ```
 ***Pluggable Workspace Tools** 
 ```
