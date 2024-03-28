@@ -29,15 +29,17 @@ The assets available in this project are:
 
 * *`3_langchain_hybrid_rag.ipynb`* - In this notebook, we show how to use `langchain` to construct a graph and use both graph search and semantic search to create a RAG workflow
 
+* *`eval_RAG.ipynb`* - In this notebook, we evaluate the hybrid graph RAG vs. a QA RAG system without graph information  
+
 * *`neo4j_query_ft_examples.ipynb`* - This notebook has some additional examples of Cypher queries that can be used as few shot examples to the LLM
   
 * *`data/activision.pdf`* - Activision's 2023 Form 10k
   
 * *`data/netflix_ttiles.csv`* - File with data about movies
   
-* *`data/elon_eval_qa.csv`* - File with general question-answer pairs to evaluate the graph RAG vs. a regular QA RAG implementation
+* *`data/elon_eval_qa.csv`* - File with general question-answer pairs to evaluate the hybrid graph RAG vs. a QA RAG implementation without graph information
   
-* *`data/elon_eval_rel.csv`* - File with question-answer pairs that have questions that involve relationships to evaluate the graph RAG vs. a regular QA RAG implementation
+* *`data/elon_eval_rel.csv`* - File with question-answer pairs that have questions that involve relationships to evaluate the hybrid graph RAG vs. a QA RAG implementation without graph information
 
 * ## Set up instructions
 
