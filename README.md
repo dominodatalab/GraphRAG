@@ -45,8 +45,7 @@ The assets available in this project are:
 
 This project requires the following [compute environments](https://docs.dominodatalab.com/en/latest/user_guide/f51038/environments/) to be present. Please ensure the "Automatically make compatible with Domino" checkbox is selected while creating the environment.
 
-> We use `Neo4j Aura` and `OpenAI` for this project and please set these environment variables with the appropriate values in your project NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+> We use `Neo4j Aura` and `OpenAI` for this project and please set these environment variables with the appropriate values in your project NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD, OPENAI_API_KEY
 
 ### Environment Requirements
 
